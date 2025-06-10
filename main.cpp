@@ -3,6 +3,7 @@
 #include "sum.h"
 #include "sub.h"
 #include "div.h"
+#include "multiplicacion.h"
 
 using std::cout;
 
