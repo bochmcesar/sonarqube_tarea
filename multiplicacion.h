@@ -22,7 +22,7 @@
 #ifndef MULTIPLICACION_H
 #define MULTIPLICACION_H
 
-inline int multiplicar(int x, int y) {
+int multiplicar(int x, int y) {
     return x * y;
 }
 
